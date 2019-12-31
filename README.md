@@ -1,17 +1,17 @@
 # Primeiros-Exercicios-Python
 
-Exercicios realizados durante curso "Introducao a linguagem python".
+**]Exercicios realizados durante curso "Introducao a linguagem python".
 
 Python 3:
 Comentarios """ e #
 
-Operacoes Matemáticas:
-+ soma
-- subtracao
-* multiplicacao
-** exponencial
-/ divisao
-% Modulo
+*]Operacoes Matemáticas:*]
+[+] soma
+[-] subtracao
+[ * ] multiplicacao
+[ ** ] exponencial
+[/] divisao
+[%] Modulo
 
 [=] operador de atribuicao 
 
