@@ -4,27 +4,27 @@
 **Python 3:**
 
 *Operacoes Matemáticas:*
-[+] soma
-[-] subtracao
-[ * ] multiplicacao
-[ ** ] exponencial
-[/] divisao
-[%] Modulo
++ [+] soma
++ [-] subtracao
++ [ * ] multiplicacao
++ [ ** ] exponencial
++ [/] divisao
++ [%] Modulo
 
-[=] operador de atribuicao 
++ [=] operador de atribuicao 
 
 *Operadores relacionais:*
 
-[==] igual
-[!=] diferente
-[>] maior que
-[<] menor que
-[>=] maior ou igual que
-[<=] menor ou igual que
++ [==] igual
++ [!=] diferente
++ [>] maior que
++ [<] menor que
++ [>=] maior ou igual que
++ [<=] menor ou igual que
 
 *Operadores Lógicos:*
-and -> e
-or -> ou
++ and -> e
++ or -> ou
 
 *Estruturas condicionais:*
 ``` python
@@ -51,9 +51,9 @@ readLine() #Le uma linha.
 readLines() #Le o aquivo e armazena em uma lista.
 ```
 Modos:
-[r] somente leitura
-[w] escrita (caso arquivo ja exista, ele sera sobrescrito)
-[a] leitura e escrita (adicionar novo conteuni ao fim do arquivo)
-[r+] leitura e escrita
-[w+] escrita
-[a+] leitura e escrita
++ [r] somente leitura
++ [w] escrita (caso arquivo ja exista, ele sera sobrescrito)
++ [a] leitura e escrita (adicionar novo conteuni ao fim do arquivo)
++ [r+] leitura e escrita
++ [w+] escrita
++ [a+] leitura e escrita
