@@ -15,27 +15,27 @@ Comentarios """ e #
 
 [=] operador de atribuicao 
 
-*Operadores relacionais*
+*Operadores relacionais:*
 
 [==] igual
-!= diferente
-> maior que
-< menor que
->= maior ou igual que
-<= menor ou igual que
+[!=] diferente
+[>] maior que
+[<] menor que
+[>=] maior ou igual que
+[<=] menor ou igual que
 
-Operadores Lógicos
+*Operadores Lógicos:*
 and -> e
 or -> ou
 
-Estruturas condicionais
+*Estruturas condicionais:*
 
 if condicao:
     comando a executar.
 else:
     comando a executar.
 
-Estrutura de repeticao
+*Estrutura de repeticao:*
 
 while condicao:
     comando a executar.
