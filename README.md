@@ -57,3 +57,9 @@ Modos:
 + [r+] leitura e escrita
 + [w+] escrita
 + [a+] leitura e escrita
+
+*Arrays:*
++ [len(lista)] tamanho da lista
++ [_.append(item)] adicionar novo item ao final da lista
++ [del lista[indice] ] remover elemento da lista
++ [del lista[:] ] limpar a lista
