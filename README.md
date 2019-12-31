@@ -1,11 +1,11 @@
 # Primeiros-Exercicios-Python
 
-**]Exercicios realizados durante curso "Introducao a linguagem python".
+**Exercicios realizados durante curso "Introducao a linguagem python".
 
 Python 3:
 Comentarios """ e #
 
-*]Operacoes Matemáticas:*]
+*Operacoes Matemáticas:*
 [+] soma
 [-] subtracao
 [ * ] multiplicacao
@@ -15,9 +15,9 @@ Comentarios """ e #
 
 [=] operador de atribuicao 
 
-Operadores relacionais
+*Operadores relacionais*
 
-== igual
+[==] igual
 != diferente
 > maior que
 < menor que
