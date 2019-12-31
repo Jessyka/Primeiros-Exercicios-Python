@@ -1,6 +1,6 @@
 # Primeiros-Exercicios-Python
 
-**Exercicios realizados durante curso "Introducao a linguagem python".
+**Exercicios realizados durante curso "Introducao a linguagem python".**
 
 Python 3:
 Comentarios """ e #
