@@ -41,3 +41,19 @@ while condicao:
 for item in lista:
     comando
 ```
+
+*Leitura de arquivos:*
+``` python
+variavel = open(name, modo)
+#Lendo o arquivo:
+read() #Le o arquivo inteiro.
+readLine() #Le uma linha.
+readLines() #Le o aquivo e armazena em uma lista.
+```
+Modos:
+[r] somente leitura
+[w] escrita (caso arquivo ja exista, ele sera sobrescrito)
+[a] leitura e escrita (adicionar novo conteuni ao fim do arquivo)
+[r+] leitura e escrita
+[w+] escrita
+[a+] leitura e escrita
